@@ -36,9 +36,9 @@
 ## Screenshots
 
 ![Home / My Tickets](screenshots/home.png)  
-![Search Events](screenshots/search.png)  
-![Profile Screen](screenshots/profile.png)  
-![Edit Profile](screenshots/edit_profile.png)
+![Search Events](screenshots/search.jpg)  
+![Profile Screen](screenshots/profile.jpg)  
+![Tickets](screenshots/tickets.png)
 
 ---
 
